@@ -1,0 +1,39 @@
+{
+  "developer": [
+    {
+      "id": 1,
+      "name": "Abu Sayeed",
+      "skill": "MERN Stack",
+      "location": "Comilla",
+      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abu Sufian",
+      "skill": "MERN Developer",
+      "location": "Dhaka",
+      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Abu Rahain",
+      "skill": "MERN Stack",
+      "location": "Comilla",
+      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Achem Hossain",
+      "skill": "PHP Developer",
+      "location": "Sylet",
+      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Anamul Huq",
+      "skill": "React Developer",
+      "location": "Barisal",
+      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+    }
+  ]
+}
