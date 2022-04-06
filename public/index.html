@@ -87,13 +87,16 @@
                         </ul>
                     </div>
                 </div>
+                <!--  New Post Modal Start  -->
 
                 <div id="newPostModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                         <div class="modal-content">
                             <div class="modal-header"> <h4>Create Post</h4></div>
+                            <div id="msg"></div>
                             <div class="modal-body">
-                                <form method="post">
+
+                                <form method="post" id="form_submit">
                                     <div class="my-3">
                                         <label for="User_Img">User Photo</label>
                                         <input id="User_Img" class="form-control" type="text" name="User_Img" placeholder="User Photo">
@@ -104,7 +107,7 @@
                                     </div>
                                     <div class="my-3">
                                         <label for="Post_Image">Post Photo</label>
-                                        <input id="Post_Image" class="form-control" type="text" name="Post Image" placeholder="Post Image">
+                                        <input id="Post_Image" class="form-control" type="text" name="Post_Image" placeholder="Post Image">
                                     </div>
                                     <div class="my-3">
                                         <label for="Post_content">Content</label>
@@ -118,58 +121,16 @@
                         </div>
                     </div>
                 </div>
+
+                <!--  New Post Modal End  -->
             </div>
 
+            <div id="ShowPost">
 
-            <div class="card shadow-sm mt-2">
-                <div class="card-body ">
-                    <div class="user_post">
-                        <div class="user_profile">
-                            <div class="profile">
-                                <img src="https://cdn-epjgf.nitrocdn.com/AxyDHawijhXkdsoYZfgRCOzHCEHVNWyO/assets/static/optimized/wp-content/uploads/2021/09/ff3ccea14032dc44e874fe3dcf67dc89.profile2-1024x1024.jpg" alt=""> <h1>Abu Sayeed Riday</h1>
-                            </div>
-                            <div class="userBtn">
-                                
-                                <div class="dropdown show">
-                                <a class="btn dropdown-toggle" href="#" role="button" id="dropdwon_item" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                  ...
-                                </a>
-                              
-                                <div class="dropdown-menu" aria-labelledby="dropdwon_item">
-                                  <a class="dropdown-item" href="#"><span><i class="fa fa-link" aria-hidden="true"></i>
-                                  </span> Copy Link</a>
-                                  <a class="dropdown-item" href="#"><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-                                  </span> Edit Post</a>
-                                  <a class="dropdown-item" href="#"><span><i class="fa fa-trash-o" aria-hidden="true"></i>
-                                  </span> Remove Post</a>
-                                  
-                                </div>
-                              </div>
-
-
-                               </div>
-
-                        </div>
-                        <div class="use_content">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur sapiente quae illum qui. Error sint neque eius magnam, suscipit dolore!</p>
-                            <img src="https://miro.medium.com/max/1200/1*OEnS6-DEn56szCwdOs2mrA.jpeg" alt="">
-                        </div>
-                        <div class="share_button">
-                            <ul>
-                                <li><span><i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                </span> Like</li>
-                                <li><span><i class="fa fa-comment-o" aria-hidden="true"></i>
-                                </span> Comment</li>
-                                <li><span><i class="fa fa-share-alt" aria-hidden="true"></i>
-                                </span> Share</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                   
-                </div>
             </div>
+            
         </div>
+        <!--  Body Right -->
         <div class="body-right"></div>
     </section>
 

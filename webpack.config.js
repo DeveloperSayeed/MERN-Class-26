@@ -7,7 +7,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "Bundle"),
     filename: "bundle.js",
-    assetModuleFilename : "[name][ext]"
+    assetModuleFilename: "[name][ext]",
   },
   devServer: {
     static: {
@@ -38,10 +38,12 @@ module.exports = {
       },
       {
         test: /\.(jpg|jpeg|png|svg)$/i,
-        type : "asset/resource"
+        type: "asset/resource",
       },
     ],
   },
+  devtool: "source-map",
+
   plugins: [
     new htmlwebpack({
       title: " Mini react ",

@@ -1,39 +1,40 @@
 {
-  "developer": [
+  "post": [
     {
-      "id": 1,
-      "name": "Abu Sayeed",
-      "skill": "MERN Stack",
-      "location": "Comilla",
-      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+      "author_name": "A.h. Jibon",
+      "author_photo": "https://scontent.fjed6-2.fna.fbcdn.net/v/t39.30808-1/243027316_1748505922011232_4006889295229982905_n.jpg?stp=dst-jpg_p320x320&_nc_cat=103&ccb=1-5&_nc_sid=7206a8&_nc_ohc=L7GvbS1yTfoAX8Jp_8s&_nc_ht=scontent.fjed6-2.fna&oh=00_AT_5SCFf5JxvF0LvzbmvWdPQsN-WN8ini1l1jmKQ8naeYg&oe=624E31FD",
+      "post_content": "“কাউকে যদি বেশি মায়া করো তবে সেই তোমাকে সবচেয়ে বেশি কষ্ট দিবে”।” “কেউ তোমাকে অনেক ভালোবাসবে, সহজেই অনেক আপন করে নিবে। আর তাতে তুমি আনন্দে ভেসে যেও না।",
+      "post_photo": "https://scontent.fjed6-2.fna.fbcdn.net/v/t39.30808-1/243027316_1748505922011232_4006889295229982905_n.jpg?stp=dst-jpg_p320x320&_nc_cat=103&ccb=1-5&_nc_sid=7206a8&_nc_ohc=L7GvbS1yTfoAX8Jp_8s&_nc_ht=scontent.fjed6-2.fna&oh=00_AT_5SCFf5JxvF0LvzbmvWdPQsN-WN8ini1l1jmKQ8naeYg&oe=624E31FD",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Abu Sufian",
-      "skill": "MERN Developer",
-      "location": "Dhaka",
-      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+      "author_name": "Md. Abu Raihan",
+      "author_photo": "https://scontent.fjed6-1.fna.fbcdn.net/v/t39.30808-6/275602924_1004004670498151_6266759427806790911_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=G9gvGgNUe8IAX9RkLhC&_nc_ht=scontent.fjed6-1.fna&oh=00_AT9twStbYCYQT2Za85N2rL-OlykrRK_bLReLH5tZ83I3YA&oe=624CF142",
+      "post_content": "যদি তুমি বাসো ভালো, চাঁদের মতো দেব আলো,\nযদি আমায় ভাবো আপন, হব তোমার মনের মতন,\nনদী যেমন দেয় মোহনা, তেমনি আমি তোমার উপমা!",
+      "post_photo": "https://scontent.fjed6-1.fna.fbcdn.net/v/t39.30808-6/275751644_1005272023704749_1296499935466404898_n.jpg?stp=dst-jpg_p720x720&_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=YDu7P9Yt0joAX8YFUq-&_nc_ht=scontent.fjed6-1.fna&oh=00_AT9wG5Hrc7owzEumHfdJuubksy-XyxNbT0yAIUzoyeUUmQ&oe=624D80CD",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Abu Rahain",
-      "skill": "MERN Stack",
-      "location": "Comilla",
-      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+      "author_name": "আবু সুফিয়ান অপু",
+      "author_photo": "https://scontent.fjed6-1.fna.fbcdn.net/v/t1.6435-9/70618753_10206136197560531_7947564212169998336_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=8ZyqnodpodUAX9lqXhp&_nc_ht=scontent.fjed6-1.fna&oh=00_AT_n8tJHaEBbp2RJgX-Ahz1EYx_Xx8JNIAq0oQ33drwknA&oe=626E1C9A",
+      "post_content": "আপনার সময় নেই – এ অজুহাত গ্রহনযোগ্য নয়। কারণ সময় কোন কাজে ব্যয় করবেন তা নির্ধারণের অধিকার আপনার রয়েছে।",
+      "post_photo": "https://bongquotes.com/wp-content/uploads/2019/08/dukkho-koshto-bengali-life-quotes-bongquotes.jpg",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Achem Hossain",
-      "skill": "PHP Developer",
-      "location": "Sylet",
-      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+      "author_name": "Toyhedul Islam Achem",
+      "author_photo": "https://scontent.fjed6-2.fna.fbcdn.net/v/t1.6435-1/118476352_323061768934846_691925194992528648_n.jpg?stp=dst-jpg_s320x320&_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_ohc=BbuDKawTqvsAX98VhDo&_nc_ht=scontent.fjed6-2.fna&oh=00_AT8uoERGOI7v-HmEZOmUp93U588PGvtDYt_4FRKuxruXOA&oe=626EACF3",
+      "post_content": "ছবিটা অনেক সুন্দর হয়েছে আরো সুন্দর কেরে তোলার চেষ্টা করা",
+      "post_photo": "https://scontent.fjed6-2.fna.fbcdn.net/v/t39.30808-6/272410219_648097959764557_4966325171888328324_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=EY5kLFdm-ckAX9lGeQe&_nc_ht=scontent.fjed6-2.fna&oh=00_AT8jQcjQ_c7pILK2zHe6JaBeb0ALyp0_OiVVaySwfRDKGw&oe=624D2A4F",
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Anamul Huq",
-      "skill": "React Developer",
-      "location": "Barisal",
-      "photo": "https://specx.me/wp-content/uploads/2022/01/New-Solar-770x380.jpg"
+      "author_name": "Sabbir Hossain",
+      "author_photo": "https://scontent.fjed6-2.fna.fbcdn.net/v/t39.30808-6/275802305_2825539904405567_7681740867432712194_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BUZRvSFV7cUAX-9_VIu&_nc_ht=scontent.fjed6-2.fna&oh=00_AT--rTopl1jf2JItuxKWvw2y8PvuDdTyabZmS57B3UtYUw&oe=624D0936",
+      "post_content": "জীবন বিচিত্রময় আর অভাবনীয়, কখন কি হবে জীবনে কেউ জানে না. এই চলার পথটা সমতল না, উঁচু নিচু আছে পদে পদে, তাই জীবন পথে আপনাকে পথনির্দেশ করবে এই অমূল্য কিছু বাণী,",
+      "post_photo": "https://scontent.fjed6-1.fna.fbcdn.net/v/t39.30808-6/275424016_2819941578298733_1722918537559411550_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_ohc=F7KuMgUOA2cAX9sq7lu&_nc_ht=scontent.fjed6-1.fna&oh=00_AT_W9nUSW87u4ln00hCcD2nswqcXBXUhV6iyiGEPgeFpDA&oe=624E3B91",
+      "id": 5
     }
+    
   ]
 }
